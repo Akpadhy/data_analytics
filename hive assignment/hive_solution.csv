@@ -1,0 +1,13 @@
+Hive Assignment Solution,,,
+,,,
+Task 2,,Questions,Answers
+,Q1,How many grids (square_ids) are there in total in the given three countries? Display the number of unique grids in the three countries.,240
+,Q2,Which country has the minimum total internet activity? Display the country code of this country. ,43
+,Q3,"Which country among the given three has the second highest total activity? Note that total activity is defined as the sum of sms_in, sms_out, call_in, call_out, internet_traffic. Display the country code of this country. Do not compress the table.",33
+,Q4,Which squareID has the maximum total SMS activity in these three countries? Note that total SMS activity is the sum of incoming and outgoing SMSes.,1151
+,Q5,"What is the total activity for the three countries? Note that total activity is defined as the sum of sms_in, sms_out, call_in, call_out, internet_traffic. For this task, first compress the table that was created in the beginning of task 2. Submit the result upto three decimal places, without rounding off the digits, obtained after compressing the table.  ",568447.566
+,,,
+Task 3,,Questions,Answers
+,Q1,"What is the total call activity from the three square_ids to country_code 39? Submit the result upto three decimal places, without rounding off the digits.",290.821
+,Q2,"What is the total SMS activity from the three square_ids to country_code 39? Submit the result upto three decimal places, without rounding off the digits. ",622.232
+,Q3,"What is the total activity, i.e. sum of CallIn, CallOut, SMSIn, SMSOut, internet traffic of the three square_ids? Submit the result upto three decimal places, without rounding off the digits. You may either compress the partitioned table or not",5344.636
